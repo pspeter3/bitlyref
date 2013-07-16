@@ -17,3 +17,17 @@ Options:
   -p PARAM, --param=PARAM
                         The query string parameter
 ```
+
+Installation
+------------
+
+```bash
+git clone git@github.com:pspeter3/bitlyref.git
+cd bitlyref
+pip install -r requirements.txt
+```
+
+Finding Your API Key
+--------------------
+
+Your API Key can be found at https://bitly.com/a/your_api_key
